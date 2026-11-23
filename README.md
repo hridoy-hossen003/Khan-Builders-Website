@@ -1,4 +1,4 @@
-# Nahar Builders – Landing Page Clone
+# Nahar Builders – Landing Page Clone - As Khan Builders
 
 A front-end clone of the [Nahar Builders](https://www.naharbuilders.com/) landing page, built for learning and practice. All page content is loaded from a JSON file and rendered with JavaScript.
 
