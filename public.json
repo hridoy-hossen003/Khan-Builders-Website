@@ -1,0 +1,202 @@
+{
+  "site": {
+    "name": "Nahar Builders",
+    "logo": {
+      "dark": "<img src=\"/img/logo-dark.png\" alt=\"Nahar Builders Logo\" />",
+      "light": "<img src=\"/img/logo-light.png\" alt=\"Nahar Builders Logo\" />"
+    }
+  },
+
+  "navbar": {
+    "menu": [
+      { "label": "Home", "link": "/" },
+      {
+        "label": "About Us",
+        "link": "/about",
+        "children": [
+          { "label": "Company Overview", "link": "/about" },
+          { "label": "Certificates & Licenses", "link": "/certificates" }
+        ]
+      },
+      {
+        "label": "Services",
+        "link": "/services",
+        "children": [
+          { "label": "All Services", "link": "/services" },
+          { "label": "Machinery & Equipment", "link": "/equipment" }
+        ]
+      },
+      {
+        "label": "Projects",
+        "link": "/projects",
+        "children": [
+          { "label": "All Projects Portfolio", "link": "/projects" },
+          { "label": "Nahar Specialized Hospital", "link": "/hospital" }
+        ]
+      },
+      { "label": "Contact", "link": "/contact" }
+    ],
+    "cta": { "label": "Get A Quote", "link": "/contact#quote" }
+  },
+
+  "hero": {
+    "slides": [
+      "<img src=\"/img/hero/slide-1.jpg\" alt=\"Nahar Builders hero slide 1\" />",
+      "<img src=\"/img/hero/slide-2.jpg\" alt=\"Nahar Builders hero slide 2\" />",
+      "<img src=\"/img/hero/slide-3.jpg\" alt=\"Nahar Builders hero slide 3\" />",
+      "<img src=\"/img/hero/slide-4.jpg\" alt=\"Nahar Builders hero slide 4\" />"
+    ],
+    "label": "Premier Construction Partner in Chattogram",
+    "heading": "Building Your Dreams with Trust & Quality",
+    "description": "A distinguished engineering & development partner dedicated to architectural distinction, safety compliance, and enduring value.",
+    "buttons": [
+      { "label": "Explore Portfolio", "link": "/projects", "icon": "fa-book", "type": "primary" },
+      { "label": "Consult Our Team", "link": "/contact", "icon": "fa-comments", "type": "outline" }
+    ],
+    "services": [
+      { "label": "Civil Construction", "icon": "fa-gem" },
+      { "label": "Real Estate Development", "icon": "fa-gem" },
+      { "label": "Project Supervision", "icon": "fa-gem" },
+      { "label": "Heavy Equipment & Materials", "icon": "fa-gem" }
+    ]
+  },
+
+  "quickCards": [
+    {
+      "id": 1,
+      "label": "Chattogram • Portfolio",
+      "title": "Residential Towers",
+      "link": "/projects",
+      "image": "<img src=\"/img/quick/residential.png\" alt=\"Residential Towers\" />"
+    },
+    {
+      "id": 2,
+      "label": "Infrastructure • Landmark",
+      "title": "Commercial & Healthcare",
+      "link": "/hospital",
+      "image": "<img src=\"/img/quick/healthcare.png\" alt=\"Commercial & Healthcare\" />"
+    },
+    {
+      "id": 3,
+      "label": "Logistics • Fleet",
+      "title": "Machinery & Heavy Fleet",
+      "link": "/equipment",
+      "image": "<img src=\"/img/quick/equipment.png\" alt=\"Machinery & Heavy Fleet\" />"
+    }
+  ],
+
+  "about": {
+    "image": "<img src=\"/img/about-us.png\" alt=\"Nahar Builders About Us\" />",
+    "label": "Our Heritage",
+    "heading": "Committed to Excellence in Civil Engineering",
+    "paragraphs": [
+      "Nahar Builders is a trusted construction company based in Chattogram, Bangladesh, committed to delivering high-quality residential and commercial projects.",
+      "With a strong emphasis on modern design, structural integrity, and long-term durability, we create spaces that seamlessly combine functionality with aesthetic appeal.",
+      "Our team of experienced engineers and skilled professionals works closely with clients to understand their vision and bring it to life with precision and care."
+    ],
+    "button": { "label": "Discover Our Story", "link": "/about", "icon": "fa-arrow-right", "type": "outline" }
+  },
+
+  "featuredProjects": {
+    "label": "Portfolio",
+    "heading": "Featured Developments",
+    "description": "A selection of our landmark residential, hospitality, and healthcare structures.",
+    "items": [
+      {
+        "id": 1,
+        "badge": "Completed",
+        "category": "Residential • Chattogram",
+        "title": "Nakeeb Heights",
+        "description": "14-Storied Luxury Residential Tower designed with state-of-the-art structural safety & modern amenities.",
+        "location": "Chandgaon R/A",
+        "stories": "14 Stories",
+        "image": "<img src=\"/img/projects/completed/8.png\" alt=\"Nakeeb Heights\" />"
+      },
+      {
+        "id": 2,
+        "badge": "Landmark",
+        "category": "Healthcare • Infrastructure",
+        "title": "Nahar Specialized Hospital",
+        "description": "19-Storied Modern Healthcare Facility featuring double basement foundation & clinical infrastructure.",
+        "location": "Chattogram",
+        "stories": "19 Stories",
+        "image": "<img src=\"/img/projects/ongoing/nahar-specialized-hospital.png\" alt=\"Nahar Specialized Hospital\" />"
+      },
+      {
+        "id": 3,
+        "badge": "Completed",
+        "category": "Hospitality • Commercial",
+        "title": "Hotel Tower Inn",
+        "description": "10-Storied 3-Star Hospitality Landmark hosting 110 premium guest rooms and corporate event spaces.",
+        "location": "Jubilee Road",
+        "stories": "10 Stories",
+        "image": "<img src=\"/img/projects/completed/6.png\" alt=\"Hotel Tower Inn\" />"
+      }
+    ],
+    "button": { "label": "Explore All Projects", "link": "/projects", "icon": "fa-building", "type": "primary" }
+  },
+
+  "quote": {
+    "text": "Architecture is not merely erect structures; it is crafting spaces of enduring trust, technical precision, and timeless elegance.",
+    "author": "Nahar Builders Executive Leadership",
+    "button": { "label": "Explore Our Vision", "link": "/about", "icon": "fa-circle-check", "type": "outline" }
+  },
+
+  "capabilities": {
+    "label": "Capabilities",
+    "heading": "Comprehensive Engineering Solutions",
+    "description": "From initial site evaluation to turnkey architectural delivery.",
+    "items": [
+      {
+        "id": 1,
+        "number": "01 / Construction",
+        "title": "Residential Construction",
+        "description": "Bespoke residential towers crafted for structural longevity, BNBC compliance, and refined living.",
+        "button": { "label": "Learn More", "link": "/services" }
+      },
+      {
+        "id": 2,
+        "number": "02 / Development",
+        "title": "Commercial Complexes",
+        "description": "High-performance commercial spaces, corporate offices, and retail centers tailored for productivity.",
+        "button": { "label": "Learn More", "link": "/services" }
+      },
+      {
+        "id": 3,
+        "number": "03 / Finishing",
+        "title": "Interior Design & Finishing",
+        "description": "Artistic interior layouts, premium material selection, and flawless finishing execution.",
+        "button": { "label": "Learn More", "link": "/services" }
+      }
+    ]
+  },
+
+  "footer": {
+    "logo": "<img src=\"/img/logo-light.png\" alt=\"Nahar Builders Logo\" />",
+    "description": "A premier civil construction & real estate development company in Chattogram, Bangladesh. Dedicated to structural safety, architectural distinction, and client trust.",
+    "button": { "label": "Contact Headquarters", "link": "/contact" },
+    "quickLinks": [
+      { "label": "About Company", "link": "/about" },
+      { "label": "Our Services", "link": "/services" },
+      { "label": "Completed Projects", "link": "/projects" },
+      { "label": "Nahar Hospital", "link": "/hospital" },
+      { "label": "Machinery Fleet", "link": "/equipment" },
+      { "label": "Certificates", "link": "/certificates" }
+    ],
+    "services": [
+      { "label": "Residential Development", "link": "/services" },
+      { "label": "Commercial Towers", "link": "/services" },
+      { "label": "Interior Architecture", "link": "/services" },
+      { "label": "Project Supervision", "link": "/services" },
+      { "label": "CDA Approvals", "link": "/services" }
+    ],
+    "headOffice": {
+      "title": "Head Office",
+      "address": { "icon": "fa-location-dot", "text": "Nahar Square (1st Floor), Holding No. 6/6, Arakan Road, Bahaddarhat, Chattogram" },
+      "phones": { "icon": "fa-phone", "items": ["+880 1811 44 77 52", "+880 1977 46 48 53"] },
+      "emails": { "icon": "fa-envelope", "items": ["info@naharbuilders.com", "engrjony@gmail.com"] }
+    },
+    "copyright": "© 2026 Nahar Builders. All Rights Reserved.",
+    "developedBy": { "label": "Brain Machine AI", "link": "https://www.brain-machine.com/" }
+  }
+}

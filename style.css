@@ -1,0 +1,21 @@
+.cormorant-garamond-font {
+  font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+}
+
+.roboto-font {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.bg-color{
+    background: #e7e4de;
+}
+
+.theme-color{
+    color: #705944;
+}
+
+.secondary-bg{
+    background-color: #F5F2EC;
+}

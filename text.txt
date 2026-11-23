@@ -1,0 +1,129 @@
+# Nahar Builders-এর হোমপেজ টেক্সট (ক্রমানুসারে)
+
+## ১. Navbar
+- Home
+- About Us
+  - Company Overview
+  - Certificates & Licenses
+- Services
+  - All Services
+  - Machinery & Equipment
+- Projects
+  - All Projects Portfolio
+  - Nahar Specialized Hospital
+- Contact
+- Get A Quote (বাটন)
+
+## ২. Hero
+- লেবেল: Premier Construction Partner in Chattogram
+- হেডিং: Building Your Dreams with Trust & Quality
+- প্যারাগ্রাফ: A distinguished engineering & development partner dedicated to architectural distinction, safety compliance, and enduring value.
+- বাটন ১: Explore Portfolio
+- বাটন ২: Consult Our Team
+
+## ৩. Hero-র নিচের সার্ভিস স্ট্রিপ
+1. Civil Construction
+2. Real Estate Development
+3. Project Supervision
+4. Heavy Equipment & Materials
+
+## ৪. কুইক-লিংক কার্ড (৩টি)
+1. Residential Portfolio / Chattogram • Portfolio / Residential Towers
+2. Commercial & Healthcare Infrastructure / Landmark Commercial & Healthcare
+3. Heavy Machinery & Equipment Logistics / Fleet Machinery & Heavy Fleet
+
+## ৫. About / Heritage
+- লেবেল: Our Heritage
+- হেডিং: Committed to Excellence in Civil Engineering
+- প্যারাগ্রাফ ১: Nahar Builders is a trusted construction company based in Chattogram, Bangladesh, committed to delivering high-quality residential and commercial projects.
+- প্যারাগ্রাফ ২: With a strong emphasis on modern design, structural integrity, and long-term durability, we create spaces that seamlessly combine functionality with aesthetic appeal.
+- প্যারাগ্রাফ ৩: Our team of experienced engineers and skilled professionals works closely with clients to understand their vision and bring it to life with precision and care.
+- বাটন: Discover Our Story
+
+## ৬. Featured Developments
+- লেবেল: Portfolio
+- হেডিং: Featured Developments
+- সাবটেক্সট: A selection of our landmark residential, hospitality, and healthcare structures.
+
+**কার্ড ১**
+- ব্যাজ: Completed
+- ক্যাটাগরি: Residential • Chattogram
+- নাম: Nakeeb Heights
+- বর্ণনা: 14-Storied Luxury Residential Tower designed with state-of-the-art structural safety & modern amenities.
+- মেটা: Chandgaon R/A, 14 Stories
+
+**কার্ড ২**
+- ব্যাজ: Landmark
+- ক্যাটাগরি: Healthcare • Infrastructure
+- নাম: Nahar Specialized Hospital
+- বর্ণনা: 19-Storied Modern Healthcare Facility featuring double basement foundation & clinical infrastructure.
+- মেটা: Chattogram, 19 Stories
+
+**কার্ড ৩**
+- ব্যাজ: Completed
+- ক্যাটাগরি: Hospitality • Commercial
+- নাম: Hotel Tower Inn
+- বর্ণনা: 10-Storied 3-Star Hospitality Landmark hosting 110 premium guest rooms and corporate event spaces.
+- মেটা: Jubilee Road, 10 Stories
+
+- বাটন: Explore All Projects
+
+## ৭. Quote ব্যান্ড
+- কোট: "Architecture is not merely erect structures; it is crafting spaces of enduring trust, technical precision, and timeless elegance."
+- নাম: Nahar Builders Executive Leadership
+- বাটন: Explore Our Vision
+
+## ৮. Capabilities
+- লেবেল: Capabilities
+- হেডিং: Comprehensive Engineering Solutions
+- সাবটেক্সট: From initial site evaluation to turnkey architectural delivery.
+
+**কার্ড ১**
+- 01 / Construction
+- Residential Construction
+- Bespoke residential towers crafted for structural longevity, BNBC compliance, and refined living.
+- Learn More
+
+**কার্ড ২**
+- 02 / Development
+- Commercial Complexes
+- High-performance commercial spaces, corporate offices, and retail centers tailored for productivity.
+- Learn More
+
+**কার্ড ৩**
+- 03 / Finishing
+- Interior Design & Finishing
+- Artistic interior layouts, premium material selection, and flawless finishing execution.
+- Learn More
+
+## ৯. Footer
+- বর্ণনা: A premier civil construction & real estate development company in Chattogram, Bangladesh. Dedicated to structural safety, architectural distinction, and client trust.
+- বাটন: Contact Headquarters
+
+**Quick Links**
+- About Company
+- Our Services
+- Completed Projects
+- Nahar Hospital
+- Machinery Fleet
+- Certificates
+
+**Services**
+- Residential Development
+- Commercial Towers
+- Interior Architecture
+- Project Supervision
+- CDA Approvals
+
+**Head Office**
+- Nahar Square (1st Floor), Holding No. 6/6, Arakan Road, Bahaddarhat, Chattogram
+- +880 1811 44 77 52
+- +880 1977 46 48 53
+- info@naharbuilders.com
+- engrjony@gmail.com
+
+**নিচের লাইন**
+- © 2026 Nahar Builders. All Rights Reserved.
+- Developed by Brain Machine AI
+
+Hero-তে ৪টি স্লাইড ডট আছে, কিন্তু আমরা শুধু প্রথম স্লাইডের টেক্সট পেয়েছি। বাকি ৩টি স্লাইডের টেক্সট সাইট থেকে দেখে নিতে হবে।
