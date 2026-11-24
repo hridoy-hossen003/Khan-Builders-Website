@@ -1,30 +1,51 @@
-# Nahar Builders – Landing Page Clone - As Khan Builders
+# Khan Builders – Landing Page
 
-A front-end clone of the [Nahar Builders](https://www.naharbuilders.com/) landing page, built for learning and practice. All page content is loaded from a JSON file and rendered with JavaScript.
+A responsive landing page for a construction and real estate company, built as a front-end clone of the [Nahar Builders](https://www.naharbuilders.com/) design for learning and practice. All page content is stored in a JSON file and rendered with JavaScript.
 
 ## Features
 
-- Responsive layout (desktop, tablet, mobile)
+- Fully responsive layout (desktop, tablet, mobile)
 - Data-driven sections rendered from `public.json`
-- Sections: Navbar, Hero slider, Service strip, Quick-link cards, About, Featured Projects, Quote band, Capabilities, Footer
+- Hover effects: zoom on card images, lift on capability cards, color fill on buttons
+- "See more / See less" toggle for long project descriptions
+- Reusable card and section components built with Tailwind CSS
+
+## Sections
+
+- [x] Navbar
+- [x] Hero
+- [x] Service strip
+- [x] Quick-link cards
+- [x] About (Our Heritage)
+- [x] Featured Developments
+- [x] Quote band
+- [x] Capabilities
+- [x] Footer
 
 ## Tech Stack
 
 - HTML5
 - Tailwind CSS v4 (CLI)
-- JavaScript (ES6+, `fetch` API)
+- JavaScript (ES6+, `fetch` API, DOM manipulation)
 - Font Awesome (icons)
-- Google Fonts: Cormorant Garamond (headings), Roboto (body)
+- Google Fonts: Cormorant Garamond (headings), Jost (body)
 
 ## Getting Started
 
-### 1. Install dependencies
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/hridoy-hossen003/Khan-Builders-Website.git
+cd Khan-Builders-Website
+```
+
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 2. Build Tailwind CSS
+### 3. Build Tailwind CSS
 
 Adjust the input/output paths to match your folders.
 
@@ -32,7 +53,7 @@ Adjust the input/output paths to match your folders.
 npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --watch
 ```
 
-### 3. Run the project
+### 4. Run the project
 
 Open the project with the **Live Server** extension in VS Code.
 Opening `index.html` directly (`file://`) will not work, because `fetch` needs a server.
@@ -58,9 +79,9 @@ const data = await res.json();
 | `capabilities` | Service cards |
 | `footer` | Links, address, contact, copyright |
 
-## Project Structure
+Each section has its own display function (for example `displayServiceStrip`, `displayFeaturesCard`, `displayCapabilities`) that receives its part of the data and builds the HTML.
 
-Update this to match your actual folders.
+## Project Structure
 
 ```
 project-root/
@@ -75,20 +96,6 @@ project-root/
 ├── img/
 └── README.md
 ```
-
-## Build Plan
-
-- [ ] Project setup and global styles
-- [ ] Navbar
-- [ ] Hero section
-- [ ] Service strip
-- [ ] Quick-link cards
-- [ ] About section
-- [ ] Featured projects
-- [ ] Quote band
-- [ ] Capabilities
-- [ ] Footer
-- [ ] Responsive fixes
 
 ## Credits
 
