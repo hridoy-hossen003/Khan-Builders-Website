@@ -62,31 +62,31 @@
   },
 
   "quickCards": [
-    {
-      "id": 1,
-      "label": "Chattogram • Portfolio",
-      "title": "Residential Towers",
-      "link": "/projects",
-      "image": "<img src=\"/img/quick/residential.png\" alt=\"Residential Towers\" />"
-    },
+{
+  "id": 1,
+  "label": "Chattogram • Portfolio",
+  "title": "Residential Towers",
+  "link": "/projects",
+  "image": "https://i.ibb.co.com/5x5ptCq2/buildig-1.avif"
+},
     {
       "id": 2,
       "label": "Infrastructure • Landmark",
       "title": "Commercial & Healthcare",
       "link": "/hospital",
-      "image": "<img src=\"/img/quick/healthcare.png\" alt=\"Commercial & Healthcare\" />"
+      "image": "https://i.ibb.co.com/7dTQkgM0/buildig-2.jpg"
     },
     {
       "id": 3,
       "label": "Logistics • Fleet",
       "title": "Machinery & Heavy Fleet",
       "link": "/equipment",
-      "image": "<img src=\"/img/quick/equipment.png\" alt=\"Machinery & Heavy Fleet\" />"
+      "image": "https://i.ibb.co.com/JZTfxfR/buildig-3.avif"
     }
   ],
 
   "about": {
-    "image": "<img src=\"/img/about-us.png\" alt=\"Nahar Builders About Us\" />",
+    "image": "https://i.ibb.co.com/xSdsKLZS/building-of-about.jpg",
     "label": "Our Heritage",
     "heading": "Committed to Excellence in Civil Engineering",
     "paragraphs": [
@@ -110,7 +110,7 @@
         "description": "14-Storied Luxury Residential Tower designed with state-of-the-art structural safety & modern amenities.",
         "location": "Chandgaon R/A",
         "stories": "14 Stories",
-        "image": "<img src=\"/img/projects/completed/8.png\" alt=\"Nakeeb Heights\" />"
+        "image": "https://i.ibb.co.com/ksjzPTzL/constracted-building.avif"
       },
       {
         "id": 2,
@@ -120,7 +120,7 @@
         "description": "19-Storied Modern Healthcare Facility featuring double basement foundation & clinical infrastructure.",
         "location": "Chattogram",
         "stories": "19 Stories",
-        "image": "<img src=\"/img/projects/ongoing/nahar-specialized-hospital.png\" alt=\"Nahar Specialized Hospital\" />"
+        "image": "https://i.ibb.co.com/GQqBVLr3/night-buildig.jpg"
       },
       {
         "id": 3,
@@ -130,7 +130,7 @@
         "description": "10-Storied 3-Star Hospitality Landmark hosting 110 premium guest rooms and corporate event spaces.",
         "location": "Jubilee Road",
         "stories": "10 Stories",
-        "image": "<img src=\"/img/projects/completed/6.png\" alt=\"Hotel Tower Inn\" />"
+        "image": "https://i.ibb.co.com/7xCycRtd/residential.jpg"
       }
     ],
     "button": { "label": "Explore All Projects", "link": "/projects", "icon": "fa-building", "type": "primary" }

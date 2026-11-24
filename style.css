@@ -3,13 +3,23 @@
   font-optical-sizing: auto;
 }
 
+.jost-font{
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+}
+
+
 .roboto-font {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
 }
 
 .bg-color{
-    background: #e7e4de;
+    background: #F5F2EC;
+}
+
+.dark-bg{
+  background-color: #11161B;
 }
 
 .theme-color{
